@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rowdies', cursive;
+}
+.main-container {
+  height: 100%;
+  background-color: rgba(105, 49, 158, 0.774);
+}
